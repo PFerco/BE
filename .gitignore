@@ -1,7 +1,7 @@
 entorno_flask/
 __pycache__/
 
-
+.env
 
 imagenes/*
 #si queremos no ignorar o ignorar
